@@ -1,2 +1,2 @@
-# ICICreative
-ICI Creative Repo
+# ICI Creative
+ICI Creative's Repository
