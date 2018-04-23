@@ -1,4 +1,4 @@
 # ICI Creative
-ICI Creative's Repository
+(Ideate Create Innovate)
 
-ICI (Ideate Create Innovate)
+ICI Creative's Repository
